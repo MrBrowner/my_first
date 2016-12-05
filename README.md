@@ -1,3 +1,3 @@
 # my_first
 Hello Github....!!!!
-This is just to know how to upload a file
+This is my first print command
